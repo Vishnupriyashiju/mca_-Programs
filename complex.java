@@ -27,3 +27,10 @@ second.display();
 add(first.r,first.i,second.r,second.i);
 }
 }
+
+output
+
+  complex numbers are
+5+4i
+7+9i
+after addition=12+13i
