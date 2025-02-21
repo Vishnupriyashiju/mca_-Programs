@@ -38,5 +38,28 @@ res[i][j]=mat1[i][j]+mat2[i][j];
             System.out.println(); }    }
 }
 
+output
+ enter the number of rows
+3
+enter the number of cols
+3
+enter the elements of matrix1
+1 2 3
+
+3 4 5
+
+6 7 8
+
+enter the elements of matrix2
+2 3 2
+
+5 4 1
+
+8 6 7
+
+Sum of the matrices:
+3       5       5
+8       8       6
+14      13      15
 
 
