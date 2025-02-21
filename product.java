@@ -45,6 +45,16 @@ lowest(obj1.price,obj2.price,obj3.price);
 }
 }
 
+output
+
+  product information:
+ product  code   product name    product price
+101             product1                100.0
+102             product2                128.0
+103             product3                790.0
+
+ product 1 is of the lowest price
+
 
 
 
