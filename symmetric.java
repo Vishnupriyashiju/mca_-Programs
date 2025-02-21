@@ -42,3 +42,19 @@ System.out.println("matrix is symmetric");
 }
 }
 }
+
+output
+ enter the no of rows of the matrix
+2
+enter the no of cols of the matrix
+2
+enter the elemnt at M(0 ,0)
+1
+enter the elemnt at M(0 ,1)
+2
+enter the elemnt at M(1 ,0)
+2
+enter the elemnt at M(1 ,1)
+3
+matrix is symmetric
+
