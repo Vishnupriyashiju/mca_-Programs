@@ -34,12 +34,12 @@ public class cpu {
     }
 
     public static void main(String[] args) {
-        cpu.ram obj1 = new cpu.ram(8, "Intel"); // Create ram object
-        cpu obj2 = new cpu(); // Create cpu object
-        cpu.processor obj3 = obj2.new processor(8, "Samsung"); // Create processor object
+        cpu.ram obj1 = new cpu.ram(8, "Intel"); 
+        cpu obj2 = new cpu();
+        cpu.processor obj3 = obj2.new processor(8, "Samsung"); 
 
-        obj1.display(); // Display ram information
-        obj3.display(); // Display processor information
+        obj1.display(); 
+        obj3.display(); 
     }
 }
 
