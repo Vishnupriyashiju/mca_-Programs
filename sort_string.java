@@ -40,3 +40,21 @@ System.out.println(str[i]);
 }
 }
 }
+
+output
+
+  enter number of strings you would like to enter :
+3
+enter the strings one by one:
+vishnu
+anu
+priya
+the string before sorting:
+vishnu
+anu
+priya
+
+ the strings after sort
+anu
+priya
+vishnu
