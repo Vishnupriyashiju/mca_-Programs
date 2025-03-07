@@ -13,6 +13,23 @@ System.out.println("\n subsequence:" +text.subSequence(7,15));
 System.out.println("\n replace o with $: "+text.replace('o','$'));
 }}
 
+output
+
+  orginal text:object oriented programming
+
+ the  given text is empty->false
+
+ length of given text ->27
+
+ upper case :OBJECT ORIENTED PROGRAMMING
+
+ lower case :object oriented programming
+
+ substring:oriented programming
+
+ subsequence:oriented
+
+ replace o with $: $bject $riented pr$gramming
 
 
 
