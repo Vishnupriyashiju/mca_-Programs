@@ -27,3 +27,15 @@ if(i==count)
 System.out.println(num+"is not present in the array!") ;
 }
 }
+
+output
+
+  enter the number of elements to be inserted:
+3
+start to enter those3elements
+34
+23
+24
+enter the elemnt to be searched
+34
+34 is present at index0!
